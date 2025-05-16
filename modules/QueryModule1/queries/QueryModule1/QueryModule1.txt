@@ -1,1 +1,1 @@
-SELECT * FROM mei.categorias LIMIT 10;
+SELECT * FROM mei.categorias LIMIT {{inputs.limit}};
