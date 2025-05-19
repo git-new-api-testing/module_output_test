@@ -1,6 +1,6 @@
 {
   "gitSyncId": "01bed78b-436f-4fd8-94eb-5b3dba90c12c_4f3ee180-e22d-44c4-a9f3-d1df5df6ba3c",
-  "id": "QueryModule1_QueryModule1",
+  "id": "QueryModule_QueryModule",
   "isPublic": true,
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
@@ -29,8 +29,8 @@
         "key": "body"
       }
     ],
-    "moduleId": "QueryModule1",
-    "name": "QueryModule1",
+    "moduleId": "QueryModule",
+    "name": "QueryModule",
     "userSetOnLoad": false
   }
 }
