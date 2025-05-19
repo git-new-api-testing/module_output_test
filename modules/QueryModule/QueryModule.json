@@ -10,8 +10,8 @@
             "controlType": "INPUT_TEXT",
             "defaultValue": "5",
             "id": "twhzhtabco",
-            "label": "limit",
-            "propertyName": "inputs.limit"
+            "label": "refactored_input_limit",
+            "propertyName": "inputs.refactored_input_limit"
           }
         ],
         "id": "oiezsgmrss",

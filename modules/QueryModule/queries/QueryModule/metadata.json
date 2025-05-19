@@ -6,7 +6,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM mei.categorias LIMIT {{inputs.limit}};",
+      "body": "SELECT * FROM mei.categorias LIMIT {{inputs.refactored_input_limit}};",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
